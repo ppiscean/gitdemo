@@ -17,4 +17,9 @@ git revert
 git reset 
 
 
-revert all these back
+git branch
+git branch abc
+git checkout abc
+git add .
+git commit -m "new version"
+git push origin abc
