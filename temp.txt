@@ -1,0 +1,15 @@
+Commands:
+
+git config --global user.name "ppiscean"
+git config --global user.email ppiscean@yahoo.com
+
+git config --list
+	
+git remote add origin https://github.com/ppiscean/gitdemo.git
+git status
+git add .
+git commit -m "test commit"
+git push origin master
+
+
+
