@@ -17,5 +17,4 @@ git revert
 git reset 
 
 
-
-
+revert all these back
